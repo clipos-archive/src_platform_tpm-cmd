@@ -1,0 +1,7 @@
+# ChangeLog for app-crypt/tpm-cmd
+
+*tpm-cmd-0.1 (17 Feb 2017)
+
+  17 Feb 2017; Thomas Letan <clipos@ssi.gouv.fr>
+  +tpm-cmd-0.1.ebuild:
+  Import lighthweight TPM commandline tool.
